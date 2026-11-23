@@ -1,0 +1,24 @@
+2026-12-15 1830 - The Dragon Climbing a Pink Tower
+- Type: video (44.9 s, 1080x1920, captions burned in)
+- Series: Thailand's Sacred Mysteries, Part 10
+- Title: A giant dragon is climbing this tower
+- Caption (hook + question):
+Thailand's Sacred Mysteries, Part 10: A giant dragon is climbing this tower at Thailand's Dragon Temple 🐉 17 pink storeys, one enormous dragon from the ground to the sky... and a twist most visitors never expect. Would you climb it? Yes or no? 👇
+
+Fact check 🔎 FACT: this is Wat Samphran in Nakhon Pathom, about 40 km west of Bangkok. FACT: the pink tower has 17 storeys and stands about 80 m tall, with a dragon wrapped around it from bottom to top. BELIEF: the dragon stands for the journey from sorrow to happiness, from hell to heaven, and people make a wish before they climb. The twist is at the end 👀
+
+#dragontemple #watsamphran #bangkok #thaitemple #thailand
+- Fact check line: (in the caption above, after the question)
+- Hashtags (≤5): #dragontemple #watsamphran #bangkok #thaitemple #thailand
+- Sound note: original voice (Kokoro bm_fable) + synthesized music/SFX at 50% of the voice; -14 LUFS. No TikTok library sound needed.
+- Preferred date/time (SGT): Tue 15 Dec 2026, 6:30pm
+- Hook: frame 1 = the whole pink tower with the dragon coiled around it, head at the top + "A GIANT DRAGON IS / CLIMBING THIS TOWER" + "THAILAND'S SACRED MYSTERIES · PART 10" ribbon; voice from 0.0 s with "Thailand's Dragon Temple" in sentence 1. Twist ("the dragon is hollow") at 70%.
+- Facts checked (2+ sources each):
+  - Wat Samphran (Wat Sam Phran), Sam Phran district, Nakhon Pathom, ~40 km west of Bangkok; "Dragon Temple": https://en.wikipedia.org/wiki/Wat_Sam_Phran · https://www.amusingplanet.com/2016/03/the-dragon-temple-in-samphran.html
+  - 17-storey pink cylindrical tower, dragon curling around the full height: Wikipedia · Amusing Planet · https://www.klook.com/destination/p50200176-wat-samphran/
+  - About 80 m tall: Wikipedia · https://www.inwanderment.com/wat-sam-phran/
+  - The dragon is hollow with a spiral stairway inside up to the head: Wikipedia · Amusing Planet · https://us.trip.com/moments/detail/sam-phran-24506-119802604/ · inwanderment.com
+  - BELIEF: dragon = journey from sorrow to happiness, hell to heaven; wish before the climb: Wikipedia · https://littleoneexplores.com/wat-sam-phran-dragon-temple/ · Tripadvisor listing
+  - Not in the video on purpose: the stairs are in poor condition in places and access can be restricted (Wikipedia, Amusing Planet), and an unrelated 2004 criminal case at the temple (Wikipedia).
+- QA: passed (contact sheet checked). 44.9 s, -15.2 LUFS, peak -2.5 dBFS, 0 frozen/black spans, no silence gaps; captions never cover a face; hook text, ribbon and FACT/BELIEF badges readable.
+- Added by: TT Videos (cloud session), 24 Nov 2026

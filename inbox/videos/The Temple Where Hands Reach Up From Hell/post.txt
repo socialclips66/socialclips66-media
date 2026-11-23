@@ -1,0 +1,25 @@
+2026-12-10 1830 - The Temple Where Hands Reach Up From Hell
+- Type: video (49.7 s, 1080x1920, captions burned in)
+- Series: Thailand's Sacred Mysteries, Part 9
+- Title: Hands reach up from hell at Thailand's White Temple
+- Caption (hook + question):
+Thailand's Sacred Mysteries, Part 9: Hundreds of hands reach up from hell at Thailand's White Temple 😳 To get inside, you cross a bridge right over them... and the real twist is hiding in the date. Would you walk across that bridge? Yes or no? 👇
+
+Fact check 🔎 FACT: Wat Rong Khun, the White Temple, is in Chiang Rai, northern Thailand. FACT: the hands in front of the bridge stand for greed and desire, and the gate on the far side is guarded by figures of Death and Rahu. FACT: it sparkles because the white plaster is set with thousands of tiny mirror chips. The rest you'll have to watch to the end 👀
+
+#whitetemple #chiangrai #watrongkhun #thaitemple #thailand
+- Fact check line: (in the caption above, after the question)
+- Hashtags (≤5): #whitetemple #chiangrai #watrongkhun #thaitemple #thailand
+- Sound note: original voice (Kokoro bm_fable) + synthesized music/SFX at 50% of the voice; -14 LUFS. No TikTok library sound needed.
+- Preferred date/time (SGT): Thu 10 Dec 2026, 6:30pm
+- Hook: frame 1 = hands reaching up in front of the White Temple + "HUNDREDS OF HANDS / REACH UP FROM HELL" + "THAILAND'S SACRED MYSTERIES · PART 9" ribbon; voice starts at 0.0 s with "Thailand's White Temple" in sentence 1. Twist ("it isn't ancient") at 32.3 s of 49.7 s (65%); the 1997 reveal at 36 s (72%).
+- Note for the scheduler: the brief's hook said "1,000 hands". No source gives a count; Wikipedia and others say "hundreds", so the video says "Hundreds of hands" and frame 1 says the same.
+- Facts checked (2+ sources each):
+  - Wat Rong Khun / White Temple, Chiang Rai; designed and opened in 1997 by Chalermchai Kositpipat, paid with his own money: https://en.wikipedia.org/wiki/Wat_Rong_Khun · https://wayfaringflaneur.com/2017/03/29/wat-rong-khun-%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%A3%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%B8%E0%B9%88%E0%B8%99-the-white-temple/ · https://wearetravelgirls.com/white-temple-thailand/
+  - Not expected to be finished until 2070: Wikipedia (citing HuffPost 2012) · https://travelerthailand.com/explore/worth-seeing/wat-rong-khun · https://wearetravelgirls.com/white-temple-thailand/
+  - Hundreds of hands = unrestrained desire; bridge of "the cycle of rebirth"; gate of heaven guarded by Death and Rahu: Wikipedia (citing Renown Travel) · https://streetartutopia.com/2026/11/22/chiang-rai-white-temple-hell-sculptures/
+  - Whitewash + mirrored glass chips: Wikipedia · streetartutopia.com (above)
+  - Interior murals with flames and demon faces: Wikipedia (citing Slate 2014) · https://white-temple.org/art-and-history/
+  - The artist is a living person: shown only by name, a blueprint and dates, never as a character.
+- QA: passed (contact sheet checked). 49.7 s, -15.5 LUFS, peak -2.2 dBFS, 0 frozen/black spans, no silence gaps; captions never cover a face; hook text, ribbon and FACT/CLAIM badges readable.
+- Added by: TT Videos (cloud session), 24 Nov 2026

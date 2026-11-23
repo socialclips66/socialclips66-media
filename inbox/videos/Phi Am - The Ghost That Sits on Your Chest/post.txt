@@ -1,0 +1,21 @@
+2026-12-14 1830 - Phi Am: The Ghost That Sits on Your Chest
+- Type: video (51.8 s, 1080x1920, captions burned in)
+- Series: Thai Ghost Files, Part 7
+- Title: The Thai ghost that sits on your chest
+- Caption (hook + question):
+Thai Ghost Files, Part 7: If you've ever woken up and couldn't move... this Thai ghost story is about you 😨 In Thailand they call it Phi Am, the ghost that presses down. Have you ever felt it? Yes or no? 👇
+
+Fact check 🔎 BELIEF: Phi Am is a Thai spirit said to press down on people while they sleep, so they can't move or speak. BELIEF: it's blamed on breaking house rules, like sleeping across a doorway or with your feet pointed at a Buddha image. FACT: in Thai, "phi am" is also the everyday word for this experience. What doctors call it is at the end of the video 👀
+
+#thaighost #ghoststory #phiam #thaifolklore #scarystories
+- Fact check line: (in the caption above, after the question)
+- Hashtags (≤5): #thaighost #ghoststory #phiam #thaifolklore #scarystories  (no #sleepparalysis on purpose: it would give away the twist)
+- Sound note: original voice (Kokoro bm_fable) + synthesized music/SFX at 50% of the voice; -14 LUFS. No TikTok library sound needed.
+- Preferred date/time (SGT): Mon 14 Dec 2026, 6:30pm
+- Hook: frame 1 = terrified sleeper with a dark shadow over his chest (eerie, no face, pale eyes) + "WOKE UP AND / COULDN'T MOVE?" + "THAI GHOST FILES · PART 7" ribbon; voice from 0.0 s, search phrase "Thai ghost story" in sentence 1. Twist ("sleep paralysis") at 72%.
+- Facts checked (2+ sources each):
+  - Phi Am = Thai ghost said to press on sleepers; same word used for sleep paralysis; Royal Institute Dictionary definition; folk causes (head the wrong way, across a doorway, feet toward a Buddha image): https://godsandmonsters.info/phi-am/ · https://pmc.ncbi.nlm.nih.gov/articles/PMC12349844/ (Honnekeri 2025 review) · https://www.researchgate.net/publication/326650742_Sleep_Paralysis_a_Medical_Condition_with_a_Diverse_Cultural_Interpretation (Olunu et al. 2018)
+  - Sleep paralysis: the mind wakes before the body leaves REM paralysis: same reviews as above
+  - About 1 in 13 people (7.6% of the general population) have had at least one episode: https://pubmed.ncbi.nlm.nih.gov/21571556/ · https://pmc.ncbi.nlm.nih.gov/articles/PMC3156892/ (Sharpless & Barber 2011, N = 36,533)
+- QA: passed (contact sheet checked). 51.8 s, -15.6 LUFS, peak -2.7 dBFS, 0 frozen/black spans, no silence gaps; captions never cover a face; hook text, ribbon and FACT/BELIEF badges readable.
+- Added by: TT Videos (cloud session), 24 Nov 2026
