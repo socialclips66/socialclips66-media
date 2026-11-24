@@ -1,0 +1,17 @@
+2026-12-02 1830 - The Monk Who Walked Into Hell
+- Type: video (1080x1920, captions burned in), AI-assisted gold-mural art (Draw Things, FLUX.1 schnell, Apache 2.0). Turn on TikTok's AI-generated content label.
+- Series: Thailand's Sacred Mysteries, Special (gold-mural test batch, video 3)
+- Title: The Thai monk who walked into hell and came back
+- Caption:
+Thailand's Sacred Mysteries, Special: A monk walked into hell... and came back with a warning 🔥 Thais told his story at funerals for centuries, until monks were BANNED from telling it 😳 Would you want this story told at your funeral? Yes or no? 👇 Do you know what he was given by a poor man on earth? 👀
+
+Fact check 🔎 LEGEND: Phra Malai's journey to the hells and to Tavatimsa heaven, where he meets the future Buddha Metteyya at the Chulamani stupa (which holds the Buddha's hair). FACT: the oldest known Phra Malai manuscript is dated 1516. FACT: it was recited at funeral wakes, often dramatized and comic; in the 1800s monks were banned from performing it, and families got around the ban with former monks dressed in robes.
+
+#phramalai #thaibuddhism #thaifolklore #thailand #buddhism
+- Hashtags (≤5): #phramalai #thaibuddhism #thaifolklore #thailand #buddhism
+- Sound note: original voice (Kokoro bm_fable 1.05) + synthesized music, fire/rain/crowd SFX; about -14 LUFS.
+- Hook: frame 1 = a monk facing the flaming gates of hell + "HE WALKED INTO HELL / AND CAME BACK" + series ribbon; voice from 0.0 s. Twist (the ban) at 34.3 s of 50.8 s (68%) with a red "BANNED" stamp at 36.4 s. New picture or zoom every 1-2.5 s.
+- Facts checked: https://en.wikipedia.org/wiki/Phra_Malai (citing Williams & Ladwig, Buddhist Funeral Cultures, pp. 83-4; Brereton 1993 on the 1516 manuscript) · https://graphicarts.princeton.edu/2018/07/18/the-legend-of-phra-malai/ (Princeton: hell's fire cooled by rain at his presence; Chulamani stupa with the Buddha's hair; funeral wakes as entertainment; reactions against it from the reign of Rama I) · https://blogs.bl.uk/asian-and-african/2013/09/a-thai-book-of-merit-phra-malais-journeys-to-heaven-and-hell.html
+- No royal figures depicted; the king who banned it is not named on screen. The hell art is stylized and non-graphic (no blood, no torture shown).
+- Quality score: 9.4/10 (hook 2/2 · first 3 s 1/1 · story and twist 1.9/2 · visuals 1.7/2 (two dark funeral shots; one image had fake text painted out) · captions 1/1 · sound 0.9/1 · rules 0.9/1 (50.8 s, a touch over the 50 s target)). -15.5 LUFS, peak -2.8 dBFS, 0 frozen/black spans.
+- QA: passed (contact sheet checked)

@@ -1,0 +1,17 @@
+2026-11-27 1830 - The Temple Built From 1.5 Million Beer Bottles
+- Type: video (1080x1920, captions burned in), AI-assisted gold-mural art (Draw Things, FLUX.1 schnell, Apache 2.0). Turn on TikTok's AI-generated content label.
+- Series: Thailand's Sacred Mysteries, Special (gold-mural test batch, video 2)
+- Title: Monks who can't drink built a temple from 1.5 million beer bottles
+- Caption:
+Thailand's Sacred Mysteries, Special: These monks can't drink a single drop of beer... so why is their temple made of 1.5 million beer bottles? 😳 Even the toilets 🍺 Genius... or too strange for a temple? 👇 Do you know which province it's in? 👀
+
+Fact check 🔎 FACT: Wat Pa Maha Chedi Kaew ("Million Bottle Temple") is in Khun Han, Sisaket. FACT: monks began collecting bottles in 1984; the main temple took 2 years; 20+ buildings now use over 1.5 million green Heineken and brown Chang bottles, including monks' huts, the toilets and a crematorium. FACT: Buddhist monks' precepts forbid alcohol. FACT: in 1963 Heineken test-produced 100,000 "WOBO" bottles designed to double as bricks; the idea never took off.
+
+#thaitemple #milliontemple #sisaket #thailand #unseenthailand
+- Hashtags (≤5): #thaitemple #milliontemple #sisaket #thailand #unseenthailand
+- Sound note: original voice (Kokoro bm_fable 1.05) + synthesized music, glass-clink SFX on every cut; about -14 LUFS.
+- Hook: frame 1 = monk meditating in a hall of glowing glass bottles + "THEY CAN'T DRINK BEER / 1.5 MILLION BOTTLES" + series ribbon; voice from 0.0 s. Animated counter 0 -> 1,500,000 at 5.0-7.6 s. Twist (Heineken's brick bottle) at 30.8 s of 46.8 s (66%). New picture or zoom every 1-2.5 s.
+- Facts checked: https://en.wikipedia.org/wiki/Wat_Pa_Maha_Chedi_Kaew · https://itsbetterinthailand.com/activities/wat-pa-maha-chedi-kaew-wat-lan-khuad-a-temple-made-out-of-glass-bottles-sisaket/ · https://en.wikipedia.org/wiki/Heineken_World_Bottle_(WOBO) · https://www.heinekencollection.com/en/stories/the-story-behind-the-wobo
+- Brand names are spoken and in the caption only; no logos or labels in the art.
+- Quality score: 9.5/10 (hook 2/2 · first 3 s 1/1 · story and twist 1.8/2 · visuals 1.8/2 (one bottle-wall shot has a plain white area) · captions 1/1 · sound 0.9/1 · rules 1/1). 46.8 s, -15.2 LUFS, peak -2.7 dBFS, 0 frozen/black spans.
+- QA: passed (contact sheet checked)
