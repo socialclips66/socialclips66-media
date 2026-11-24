@@ -9,7 +9,8 @@ Year of the Fire Goat 2027, Part 3: your first wallpaper of 2027 🐐🔥 Swipe 
 Fact check 🔎 FACT: 2027 is a Goat year in the Chinese zodiac, and its element is Fire (丁未, dīng wèi). FACT: the Goat year starts at Chinese New Year, 6 Feb 2027, not on 1 January. BELIEF: each year's animal and element are said to shape the year's mood.
 
 #2027wallpaper #yearofthegoat #chinesezodiac #happynewyear2027 #wallpaper
-- Art: gold-mural style, Draw Things FLUX.1 schnell (Apache 2.0), AI-generated content label ON. Layout: studio images/newyear2027.py
+- Art: gold-mural style, Draw Things FLUX.1 schnell (Apache 2.0), TikTok has no AI label for photo posts (Metricool ignores it); the caption needs none. Layout: studio images/newyear2027.py
 - Sources: Chinese New Year 2027 date and the 丁未 Fire Goat year (Hong Kong Observatory / standard Chinese calendar)
 - QA: passed (contact sheet checked); lock-screen clock area clear on both sizes; every word readable at phone size; self-score 8.8/10
 - Added by: TT Media Manager, 25 Nov 2026
+- Booked: Metricool 440528932 (uuid 7276031604479510231), Thu 31 Dec 2026 21:00 SGT
