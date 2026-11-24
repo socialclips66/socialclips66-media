@@ -20,5 +20,6 @@ Fact check 🔎 FACT: this is Wat Samphran in Nakhon Pathom, about 40 km west of
   - The dragon is hollow with a spiral stairway inside up to the head: Wikipedia · Amusing Planet · https://us.trip.com/moments/detail/sam-phran-24506-119802604/ · inwanderment.com
   - BELIEF: dragon = journey from sorrow to happiness, hell to heaven; wish before the climb: Wikipedia · https://littleoneexplores.com/wat-sam-phran-dragon-temple/ · Tripadvisor listing
   - Not in the video on purpose: the stairs are in poor condition in places and access can be restricted (Wikipedia, Amusing Planet), and an unrelated 2004 criminal case at the temple (Wikipedia).
+- Booked: Metricool, cloud inbox check 24 Nov 2026
 - QA: passed (contact sheet checked). 44.9 s, -15.2 LUFS, peak -2.5 dBFS, 0 frozen/black spans, no silence gaps; captions never cover a face; hook text, ribbon and FACT/BELIEF badges readable.
 - Added by: TT Videos (cloud session), 24 Nov 2026

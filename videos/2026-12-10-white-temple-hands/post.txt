@@ -21,5 +21,6 @@ Fact check 🔎 FACT: Wat Rong Khun, the White Temple, is in Chiang Rai, norther
   - Whitewash + mirrored glass chips: Wikipedia · streetartutopia.com (above)
   - Interior murals with flames and demon faces: Wikipedia (citing Slate 2014) · https://white-temple.org/art-and-history/
   - The artist is a living person: shown only by name, a blueprint and dates, never as a character.
+- Booked: Metricool, cloud inbox check 24 Nov 2026
 - QA: passed (contact sheet checked). 49.7 s, -15.5 LUFS, peak -2.2 dBFS, 0 frozen/black spans, no silence gaps; captions never cover a face; hook text, ribbon and FACT/CLAIM badges readable.
 - Added by: TT Videos (cloud session), 24 Nov 2026

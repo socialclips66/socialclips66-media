@@ -17,5 +17,6 @@ Fact check 🔎 BELIEF: Phi Am is a Thai spirit said to press down on people whi
   - Phi Am = Thai ghost said to press on sleepers; same word used for sleep paralysis; Royal Institute Dictionary definition; folk causes (head the wrong way, across a doorway, feet toward a Buddha image): https://godsandmonsters.info/phi-am/ · https://pmc.ncbi.nlm.nih.gov/articles/PMC12349844/ (Honnekeri 2025 review) · https://www.researchgate.net/publication/326650742_Sleep_Paralysis_a_Medical_Condition_with_a_Diverse_Cultural_Interpretation (Olunu et al. 2018)
   - Sleep paralysis: the mind wakes before the body leaves REM paralysis: same reviews as above
   - About 1 in 13 people (7.6% of the general population) have had at least one episode: https://pubmed.ncbi.nlm.nih.gov/21571556/ · https://pmc.ncbi.nlm.nih.gov/articles/PMC3156892/ (Sharpless & Barber 2011, N = 36,533)
+- Booked: Metricool, cloud inbox check 24 Nov 2026
 - QA: passed (contact sheet checked). 51.8 s, -15.6 LUFS, peak -2.7 dBFS, 0 frozen/black spans, no silence gaps; captions never cover a face; hook text, ribbon and FACT/BELIEF badges readable.
 - Added by: TT Videos (cloud session), 24 Nov 2026
