@@ -1,0 +1,15 @@
+### 5 Guardians of Every Thai Temple
+- Type: carousel (7 slides), gold-mural style (noon carousel test, 2 posts/day)
+- Series: Thailand's Sacred Mysteries (carousel, no part number)
+- Title (TikTok title): 5 Guardians of Every Thai Temple
+- Slot: Wed 25 Nov 2026, 12:00 SGT (Metricool)
+- Caption:
+Thailand's Sacred Mysteries: every Thai temple is guarded by these 5 creatures... and #5 arrived as ship ballast 🚢 Which guardian scares you most? Comment 1–5 👇
+
+Fact check 🔎 FACT: 12 yaksha giants guard the gates of Wat Phra Kaew, Bangkok. FACT: naga stair rails, makara heads and singha lions are classic Thai temple guardians. FACT: Wat Pho's Chinese stone figures are thought to have come from China as ship ballast in the 1800s. BELIEF: the guardians keep evil spirits out.
+
+#thaitemple #watphrakaew #watpho #thaiculture #thailand
+- Sources: Wat Phra Kaew's 12 yaksha (watthailosangeles.com temple guardians; widely documented); naga emerging from makara at Wat Rong Suea Ten (akg-images caption); Wat Pho Chinese stone figures as ship ballast in the 1800s (multiple Thai culture sources: "believed"); singha as gate guardians.
+- Art: Draw Things FLUX.1 schnell (Apache 2.0). Layout: studio images/mural_carousel.py + carousel_specs/2026-11-27-temple-guardians.py
+- QA: passed (contact sheet checked); every word readable at phone size; Naga shown as serpent (no legs); no seals/text in art; self-score 8.8/10
+- Added by: TT Media Manager, 25 Nov 2026
