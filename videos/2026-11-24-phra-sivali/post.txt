@@ -1,0 +1,23 @@
+2026-11-24 2330 - The Monk Trapped 7 Years in the Womb
+- Type: video (1080x1920, captions burned in), AI-assisted gold-mural art (Draw Things, FLUX.1 schnell, Apache 2.0). Turn on TikTok's AI-generated content label.
+- Series: Thailand's Sacred Mysteries, Special (gold-mural test batch, video 1 of 3; no part number so the scheduled numbering stays intact)
+- Title: The Thai monk who stayed 7 years in the womb
+- Caption:
+Thailand's Sacred Mysteries, Special: This Thai monk was trapped in his mother's womb for 7 years 😳 The legend says it was payback for something he did in a past life... Did he pay enough? Yes or no? 👇 Do you know what he carries in every statue today? 👀
+
+Fact check 🔎 LEGEND: the 7 years in the womb come from the Pali commentaries. LEGEND: the Asātarūpa Jātaka (No. 100) says that in a past life, as a prince, he blockaded a city for 7 days and cut off its food, water and firewood. FACT: the Buddhist texts name Sivali the Buddha's foremost disciple in receiving offerings. BELIEF: Thais keep his image in shops and on journeys for abundance and safe travel.
+
+#phrasivali #thaiamulet #thaibuddhism #thailand #buddhism
+- Hashtags (≤5): #phrasivali #thaiamulet #thaibuddhism #thailand #buddhism
+- Sound note: original voice (Kokoro bm_fable 0.92) + synthesized music/SFX at 50% of the voice; about -14 LUFS. No TikTok library sound.
+- Date/time (SGT): Tue 24 Nov 2026, 11:30pm
+- Hook: frame 1 = Phra Sivali walking with his parasol and bowl under a gold halo + "TRAPPED IN THE WOMB / FOR 7 YEARS" + "THAILAND'S SACRED MYSTERIES · SPECIAL" ribbon; voice from 0.0 s ("This Thai monk..." = search phrase). Re-hook question at 25.7 s (56%); past-life twist 28.7-41.9 s of 45.5 s. Version 2 (v1 judged too slow by Gaston): new cut or snap zoom every 1-2.5 s, red tint and shake for the past life, heartbeat under the twist.
+- Facts checked:
+  - 7 years (and 7 months, 7 days in some tellings) in the womb, born able to speak, ordained as a child: legend from the commentaries. https://ancient-buddhist-texts.net/English-Texts/Great-Chronicles/43-18.htm · https://en.wikipedia.org/wiki/S%C4%ABvali · https://bodhi-bowl.com/2024/02/22/phra-sivali-maha-thera/
+  - Past life: as a prince he blockaded a city for 7 days (food, water, firewood cut off); this caused the 7 years in the womb: Jataka 100 Asatarupa. https://jatakastories.div.ed.ac.uk/stories-in-text/jatakatthavannana-100 · https://www.palikanon.com/english/pali_names/ay/asaataruupa_jat_100.htm · https://www.wisdomlib.org/definition/asatarupa-jataka (Wikipedia's "seven years and seven days" siege is wrong; the Jataka says 7 days.)
+  - The forest journey with 500 monks ("Is not Sivali with us?") and the etadagga line "foremost of those who receive offerings": https://en.wikipedia.org/wiki/S%C4%ABvali · Great Chronicles (above)
+  - Thai veneration of Phra Sivali for abundance and travel: https://thailandfoundation.or.th/9-quintessential-thai-amulets/ · Wikipedia (above)
+  - Wikipedia's Sivali article is flagged as possibly LLM-written, so every claim used is also in the Great Chronicles.
+- No real person's likeness: Phra Sivali is an ancient legendary figure, shown from behind; no royal figures beyond the legend's Koliyan parents.
+- Quality score: 9.5/10 (hook 2/2 · first 3 s 1/1 · story and twist 2/2 · visuals 1.6/2 (two shots look more like photos than murals) · captions 1/1 · sound 0.9/1 · rules 1/1). 45.5 s, -15.3 LUFS, peak -3.0 dBFS, 0 frozen/black spans.
+- QA: passed (contact sheet checked)
