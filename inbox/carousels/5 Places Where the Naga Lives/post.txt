@@ -1,0 +1,45 @@
+STATUS: Ready to schedule
+Series: Thailand's Sacred Mysteries (carousel, no part number)
+Type: carousel (7 slides, 1080x1920)
+Title: 5 Places Where the Naga Lives
+Preferred time: Wed 16 Dec 2026, 9:00pm SGT
+
+CAPTION (exact, from the brief):
+Thailand's Sacred Mysteries: 5 places in Thailand where the Naga is said to live 🐍 #2 is a cave made of stone scales... Which would you visit? Comment 1–5 👇
+
+Fact check 🔎 FACT: Kham Chanot (Udon Thani), Naka Cave (Phu Langka NP, Bueng Kan), the Naga fireballs at Phon Phisai (Nong Khai), Doi Suthep's Naga staircase (Chiang Mai) and the 122 m Naga statue at Phu Manorom (Mukdahan) are all real places. BELIEF/LEGEND: that the Naga lives there.
+
+#phayanaga #naga #thaifolklore #thailand #unseenthailand
+
+PINNED COMMENT:
+Which one would you visit first? Comment 1–5 👇 The Naga video stories are in Thai Ghost Files & Sacred Mysteries on my profile.
+
+SOUND: soft Thai/ambient trending instrumental, low volume (carousel, no voiceover)
+
+SLIDES:
+01 Cover: ribbon + "5 PLACES IN THAILAND WHERE THE NAGA LIVES" + "#2 is a cave made of scales 🐍"
+02 Kham Chanot, Udon Thani (BELIEF + FACT)
+03 Naka Cave, Bueng Kan (FACT + LEGEND)
+04 Phon Phisai, Nong Khai (FACT + BELIEF)
+05 Doi Suthep, Chiang Mai (FACT + BELIEF)
+06 Phu Manorom, Mukdahan (FACT)
+07 "Which would you visit? Comment 1–5 👇" + "Watch: Thai Ghost Files & Sacred Mysteries"
+
+FACT NOTES:
+- Phu Manorom statue (Pu Si Mukda): 122 m long, about 20 m tall, so the slide says "122 metres long".
+- Kham Chanot flooded in 2016 and 2017 (also 1973 and 1995).
+- Doi Suthep staircase: 306 steps, so the slide says "300+".
+- Naga fireballs: the cause is still debated (slide says so).
+
+SOURCES:
+https://en.wikipedia.org/wiki/Kham_Chanot
+https://www.thailandtourismdirectory.go.th/en/attraction/100140
+https://www.chiangmai-alacarte.com/the-naga-staircase-of-buddhist-temples/
+https://www.tourismthailand.org/Attraction/wat-roi-phra-phutthabat-phu-manorom
+https://en.wikipedia.org/wiki/Naga_fireballs
+
+QA: passed (contact sheet checked)
+Contrast: passed (min ratio 5.0:1) — every word on a >=70% black band (90% core); body text 56 px, titles 96–104 px; series ribbon and FACT/BELIEF/LEGEND tags 44–46 px on solid pills (ratio 8.9:1+); nothing in the bottom 20% or right 12%; checked at 270 px, 360 px, grayscale, low brightness and the 150 px cover.
+Score: 8.8/10 (cover hook 9, readability 9, art 8.5, facts and labels 9, ending CTA 9, rules 9)
+Art: supplied art from images/art/naga-carousel/ (not redrawn), Lanczos fill-crop.
+Made by: content chat (cloud session), generator images/naga_carousel.py in the studio repo.
