@@ -1,0 +1,18 @@
+2026-12-04 1830 - The Island That Can Never Flood
+- Type: video (1080x1920, captions burned in), AI-assisted gold-mural art (Draw Things, FLUX.1 schnell, Apache 2.0). Turn on TikTok's AI-generated content label.
+- Series: Thailand's Sacred Mysteries, Special (gold-mural test batch, video 4)
+- Title: The Naga island in Thailand that can never flood
+- Caption:
+Thailand's Sacred Mysteries, Special: Thais believe this island is a doorway to the kingdom of the Naga 🐍 and that it can NEVER flood... Then came the silent audience of 1989 👀 Fact or legend? Would you cross that bridge at night? Yes or no? 👇 Do you know the names of the two Nagas said to live beneath it?
+
+Fact check 🔎 FACT: Kham Chanot is a palm-forest island in Ban Dung district, Udon Thani, reached by a bridge. BELIEF: it is a gateway to the realm of the Naga, home of Pu Si Suttho and Ya Si Pathumma. LEGEND: the 1989 "ghost film crew" story; a 2019 Thai PBS investigation found it was a normal merit-making screening, and not at Kham Chanot. FACT: the island has flooded, including in 1973, 1995, 2016 and 2017.
+
+#khamchanot #phayanaga #udonthani #thaifolklore #thailand
+- Hashtags (≤5): #khamchanot #phayanaga #udonthani #thaifolklore #thailand
+- Sound note: original voice (Kokoro bm_fable 1.07) + synthesized music, water/crickets/film-reel SFX; about -14 LUFS.
+- Hook: frame 1 = the Naga-balustrade bridge into the dark palm forest + "THE DOOR TO THE NAGA KINGDOM / IT CAN NEVER FLOOD?" + series ribbon; voice from 0.0 s. Old-cinema projector flicker during the ghost-audience section. Twist at 31.2 s of 50.2 s (62%). New picture or zoom every 1-2.5 s.
+- Facts checked: https://en.wikipedia.org/wiki/Kham_Chanot (citing Thai PBS 2019 "Truth Never Dies", Thairath 2017/2024, Matichon 2017, TAT) · https://www.giunca.com/EdWorld/2019/10/30/wat-kham-chanot-and-the-legend-of-the-giant-serpents/ · https://www.tourismthailand.org/Attraction/kham-chanot
+- The Naga is drawn Thai-style (flame crest, no legs); two images were regenerated because the first came out as a Chinese dragon and as a dark, unreadable crowd.
+- Mix: music 12 dB and SFX 9 dB under the voice (new mural standard, 24 Nov).
+- Quality score: 9.4/10 (hook 2/2 · first 3 s 1/1 · story and twist 2/2 · visuals 1.7/2 (the bridge shot is reused; the Naga has a small whisker) · captions 1/1 · sound 0.9/1 · rules 0.8/1 (50.2 s, at the top of the range)). -15.7 LUFS, peak -2.8 dBFS, 0 frozen/black spans.
+- QA: passed (contact sheet checked)
