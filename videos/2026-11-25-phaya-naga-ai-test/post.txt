@@ -1,0 +1,18 @@
+Post: Phaya Naga of the Mekong (AI clip test)
+Type: video, 10 s seamless loop, 1080x1920, -15 LUFS
+When: Wed 25 Nov 2026, 22:00 SGT (extra test slot, outside the 2-a-day plan)
+Series: none (standalone AI-clip format test), no part number
+Label: LEGEND. AI-generated scene, labelled on screen; switch ON TikTok's "AI-generated content" toggle.
+QA: passed (contact sheet checked) - 9/10. Watermark fully covered, hook text clear of the Naga's face, monk never covered, loop seam invisible.
+
+Caption:
+An old Buddhist legend, still honoured in every Thai ordination: a naga once took human form to become a monk. 🐍 When it was found out, the Buddha told it to return to its own kind. It asked one thing: that future monks carry its name. To this day men about to be ordained are called "nak" (naga) in its honour.
+This scene is AI-generated, inspired by the legend. Not real footage.
+Would you stay this still? 👇
+#phayanaga #naga #mekong #thaifolklore #thailand
+
+Sources:
+- Vinaya Mahavagga I.63 (the naga who ordained in human form; why candidates are called "nak")
+- Thai ordination custom: the candidate is called "nak" before ordination
+
+Made with: Kling Image 4.0 (start frame) + Kling 4.0 image-to-video, edited by TT Media Manager (loop, hook, sound, AI label).
