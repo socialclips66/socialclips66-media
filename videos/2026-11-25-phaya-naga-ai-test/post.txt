@@ -16,3 +16,5 @@ Sources:
 - Thai ordination custom: the candidate is called "nak" before ordination
 
 Made with: Kling Image 4.0 (start frame) + Kling 4.0 image-to-video, edited by TT Media Manager (loop, hook, sound, AI label).
+
+Booked: Metricool post id 441558423 (uuid 265399248108013640), TikTok 22:00 SGT, isAigc on.
