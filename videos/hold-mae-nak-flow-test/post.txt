@@ -16,3 +16,7 @@ Sources:
 - Retold in many Thai films, e.g. Nang Nak (1999)
 
 Made with: Google Flow (Nano Banana 2.1 start frame + Veo 3.1 Fast image-to-video), made and edited by TT Media Manager.
+
+--- Story version (v1, 25 Nov 19:40) ---
+story-v1.mp4: 32.3 s narrated mini-story (voice bm_fable 0.92, script in voice-script.txt), shots: arm (Veo Fast) / husband Mak in the doorway (Veo Lite) / arm again / freeze on Mak. Subtitles top, hook + end question, AI label. QA 8.7 (draft).
+v2 plan (tomorrow's free credits): add shot "Nak waiting at the door as Mak comes home at dusk" over sentence 3 and "the lime rolling off the floor" over sentence 4, extend to about 40-45 s, then pick loop vs story for posting.
