@@ -1,0 +1,18 @@
+Title: S$18 for a 30-Cent Temple Tile?
+Series: Exposé (standalone, no part number)
+Status: HOLD. Narrated video version of the 26 Nov carousel. Book only if the carousel gets comments, or after the 29 Nov caption-test review (extra slot, never a third post on one day).
+Format: 48.8 s, 1080x1920, voice from 0.0 s (Kokoro bm_fable 1.05), -15 LUFS, music and SFX at -6 dB under the voice.
+AI label: ON when booking (tiktokData.isAigc = true; FLUX mural stills).
+
+Caption:
+You paid S$18 for one temple roof tile. The factory price? 8 baht, about 30 cents 😳 So who keeps the rest, and who chants your name when the master flies overseas? Have you ever paid a dealer for merit? 👇
+Send this to someone who donates online 🙏
+
+Fact check 🔎 FACT: a temple in Phitsanulok priced its glazed roof tiles at 8 baht each, the factory price; temples' own tile drives ask about 25–120 baht a tile. FACT: S$18 ≈ 470 baht (about 26.3 baht per S$, Nov 2026). FACT: Thailand's Central Investigation Bureau (11 Sep 2026) advises sending merit money only to an account in the temple's own name. CLAIM: some dealers sell monthly chanting by a famous master. BELIEF: merit comes from intention, not price. Not every dealer overcharges; ask before you pay.
+
+Exposé
+#thaitemple #meritmaking #scamalert #thaibuddhism #singapore
+
+Sources: Wat Ban Noi Tha Thong tile drive (Phitsanulok), temple tile-drive price lists (25/33/100/120 baht), TNN report on CIB advice 11 Sep 2026, Thailand Consumer Council merit-scam warnings, Nakhon Sawan NOB scam warnings.
+
+QA: passed (contact sheet checked) - 9.0. Hook "S$18 FOR A 30-CENT TILE?" on frame 1 below the merchant's face; EXPOSÉ ribbon; FACT/CLAIM/BELIEF badges; 0→470 BAHT counter; twist at 28.4 s (58%) "who is chanting your name?"; captions Poppins Bold with a 9 px dark outline, never over a face; tilak and AI seals removed; merchant is a lay trader, no real dealer, temple or master named.
