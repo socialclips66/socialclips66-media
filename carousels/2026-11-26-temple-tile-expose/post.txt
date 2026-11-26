@@ -3,7 +3,7 @@ Type: carousel (8 slides), mural style
 When: Thu 26 Nov 2026, 22:30 SGT (Gaston's request: exposé, extra slot)
 Series: Exposé (standalone, new), no part number. Hook-first caption (caption test format).
 Title: S$18 for a 30-Cent Temple Tile?
-QA: passed (contact sheet checked) - 8.7. Every word readable on a dark band; AI seals/signatures inpainted; merchant is a lay trader (no monk shown as the profiteer, no tilak), no real dealer, temple or master named.
+QA: passed (contact sheet checked) - 9.0 after the 16:10 text fix (balanced line breaks, no one-word last lines, number+unit kept together, clear "1" numerals, no full-width quote gap). Every word readable on a dark band; AI seals/signatures inpainted; merchant is a lay trader (no monk shown as the profiteer, no tilak), no real dealer, temple or master named.
 Labels: FACT / ASK / RED FLAG / DO / BELIEF on every slide.
 
 Caption:
