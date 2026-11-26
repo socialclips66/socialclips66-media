@@ -1,8 +1,8 @@
 Title: She Died Pregnant at 27. Now She's an Amulet.
 Series: Thai Ghost Files, Part 10 (provisional: confirm the number when booking; the ribbon on frame 1 says PART 10, a 2-minute re-render if it changes)
 Status: HOLD for Gaston's review. Not booked. Ask Gaston about mid/late December.
-Format: 59.9 s, 1080x1920, voice from 0.0 s (Kokoro bm_fable 1.06), -15 LUFS, music and SFX at -6 dB under the voice. @S📎™ logo top-right on every frame.
-AI label: ON when booking (tiktokData.isAigc = true; FLUX mural stills). Real photos: the Khun Paen Mae Muey amulet and Arjan Sek (supplied by Gaston).
+Format: 59.9 s, 1080x1920, voice from 0.0 s (Kokoro af_heart, normal speed, natural pauses), -14 LUFS. Sound redone for a natural feel: soft piano + warm pad in room reverb (-11 dB under the voice), rain, a distant muffled crash, fire crackle, irregular night crickets and temple bells (-14 dB); no synth stings or whooshes; music stops for the twist. @S📎™ logo top-right on every frame.
+AI label: ON when booking (tiktokData.isAigc = true; FLUX mural stills). No real photos (Gaston, 26 Nov 18:01): the amulet and Arjan Sek are photoreal look-alikes made in Google Flow (Nano Banana 2.1); murals from Draw Things.
 
 Caption:
 She died pregnant at 27 in a car crash. Today her spirit lives in this amulet 🕯️ This is the true story of Mae Muey, as told by the Lanna master Arjan Sek. Would you carry her? 👇
@@ -16,4 +16,4 @@ Thai Ghost Files, Part 10
 Sources: Arjan Sek's account (via Gaston, 26 Nov 2026); Wikipedia "Phi Tai Hong" (tai thang klom); Sanook News report on villagers separating mother and baby before cremation; thailandamulet.net "Nam Man Prai and Metta Oils"; Watthai SG (Arjan Sek, San Pa Tong, Chiang Mai).
 Full story copy: claude.ai doc "Mae Muey: The True Story (as told by Arjan Sek)".
 
-QA: passed (contact sheet checked) - 9.0. Frame 1 = Mae Muey holding the real amulet + hook "SHE DIED PREGNANT AT 27 / NOW SHE'S AN AMULET"; first sentence says "Thai amulet"; twist at 45 s (76%) "her own soul still cannot ascend"; ends on "Would you carry her?". STORY / BELIEF / HOW TO badges; captions never over a face; no corpse, no gore, no price, no shop link; AI seals and fake lettering removed.
+QA: passed (contact sheet checked) - 9.0. Frame 1 = Mae Muey holding the real amulet + hook "SHE DIED PREGNANT AT 27 / NOW SHE'S AN AMULET"; first sentence says "Thai amulet"; twist at 44.3 s (75%) "her own soul still cannot ascend"; ends on "Would you carry her?". STORY / BELIEF / HOW TO badges; captions never over a face; no corpse, no gore, no price, no shop link; AI seals and fake lettering removed.
