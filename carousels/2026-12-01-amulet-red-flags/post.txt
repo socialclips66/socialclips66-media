@@ -1,0 +1,23 @@
+STATUS: Booked Tue 1 Dec 2026 12:00 SGT (Metricool)
+Series: Exposé (carousel, no part number)
+Type: carousel (8 slides, 1080x1920)
+Title (TikTok title): 5 Red Flags Before You Rent a Thai Amulet
+Why: 4 Rules of Thai Amulets (27 Nov) is the best post on the account (1,958 views, 11 saves, 5 shares at 14 h). Same shape: amulets, numbered list worth saving, hook-first caption.
+
+CAPTION:
+5 red flags before you rent a Thai amulet 🚩 Number 3 is the one that costs people most. Has a dealer ever pushed you? 👇
+Save this before you rent 📌 and send it to a friend who collects amulets 🙏
+
+Fact check 🔎 FACT: in 2023 Thai police charged 20 people in Chonburi over fake amulets worth about US$11, sold to tourists for US$715–2,830 after temple rituals. FACT: a 2026 Religioscope study found online mark-ups of up to 71x, "violently attract money" sales lines, and sellers aiming at buyers in debt, illness or gambling trouble with cures for "karmic debt". BELIEF: amulets are "rented" (chao) because no one can own the Buddha's image. Not every dealer overcharges; ask before you pay.
+
+Exposé
+#thaiamulet #amulet #scamalert #thaibuddhism #thailand
+
+Rules: exposes the practice only; no named person, shop, temple or master; no monk shown as profiteer; no "luck"/"blessing".
+SOURCES:
+- Religioscope, Kwan Yuk Sing, "The Transnational Trade of Thai Buddhist Amulets in China and Hong Kong" (June 2026): https://religion.info/pdf/2026_06_Sing_Thai_Amulets.pdf
+- VOA, "As Chinese Tourists Return to Thailand, So Do Scams Targeting Them" (14 Sep 2023): https://www.voanews.com/a/as-chinese-tourists-return-to-thailand-so-do-scams-targeting-them-/7269404.html
+Art: Google Flow stills from the 27 Nov exposé video (studio videos/shorts/amulet-dealer-expose/art).
+QA: passed (contact sheet checked; in-code safe-area check on every text box; no title on artwork or faces)
+Score: 8.7/10 (hook 8.7, readability 9, facts 9, visuals 8.5, ending 8.5)
+Made by TT Media Manager, 28 Nov 2026. Spec: studio images/carousel_specs/2026-12-01-amulet-red-flags-bold.py
