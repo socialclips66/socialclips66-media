@@ -14,3 +14,5 @@ Fact check 🔎 FACT: 2027 is a Goat year in the Chinese zodiac, and its element
 - QA: passed (contact sheet checked); lock-screen clock area clear on both sizes; every word readable at phone size; self-score 8.8/10
 - Added by: TT Media Manager, 25 Nov 2026
 - Booked: Metricool 440528932 (uuid 7276031604479510231), Thu 31 Dec 2026 21:00 SGT
+
+27 Nov 2026: cover (01.jpg) rebuilt in bold template v2, text inside the TikTok safe area. The wallpaper slide (02.jpg) is unchanged; its "2027" line is part of the lock-screen design.
