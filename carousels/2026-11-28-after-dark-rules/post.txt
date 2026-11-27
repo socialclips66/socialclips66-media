@@ -14,3 +14,4 @@ Fact check 🔎 BELIEF: these are Thai household superstitions about wandering s
 - Art: Draw Things FLUX.1 schnell; faces hidden, no blood or gore; seals inpainted.
 - QA: passed (contact sheet checked); every word readable at phone size; self-score 8.7/10
 - Added by: TT Media Manager, 25 Nov 2026
+QA (27 Nov 15:10 FIX): all text moved inside TikTok's safe area (above y 1520, clear of the right-hand buttons); cover picture raised so the eyes show above the title. Checked with TikTok's caption and buttons overlaid. Score 8.7.
