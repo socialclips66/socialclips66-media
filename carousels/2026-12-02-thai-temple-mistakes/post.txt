@@ -1,0 +1,2 @@
+
+27 Nov 2026 rebuild (TT Media Manager): bold template v2 (Montserrat) with Google Flow art (Nano Banana 2.1, 2K); every title now names the mistake; all text inside the TikTok safe area (check passed in code). QA: passed (contact sheet checked). Score 8.8/10 (cover 8.5, readability 9, art 9, facts 9).
