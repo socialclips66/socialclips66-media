@@ -1,0 +1,25 @@
+STATUS: Booked Fri 27 Nov 2026 23:00 SGT (Metricool), extra slot requested by Gaston (27 Nov 16:18)
+Series: Exposé (no part number)
+Type: video (47.5 s, 1080x1920, 16.7 MB)
+Title (TikTok title): The $11 amulet they sold for $2,830
+AI label: ON (isAigc; Google Flow stills)
+
+CAPTION:
+An $11 amulet. Sold for $2,830 😳 Some dealers find people at their lowest, in debt, sick, gambling, and sell them a cure for "karmic debt". But Thais never buy an amulet. They rent it. Has a dealer ever pushed you? 👇
+Send this to a friend who collects amulets 🙏
+
+Fact check 🔎 FACT: in 2023 Thai police charged 20 people in Chonburi over fake amulets worth about US$11, sold to tourists for US$715–2,830 after temple rituals. FACT: a 2026 Religioscope study found online mark-ups of up to 71x, sales aimed at buyers in crisis, and a seller who quit selling "shadow amulets" and now gives amulets only for charity donation receipts. BELIEF: amulets are "rented" (chao) because no one can own the Buddha's image. Not every dealer overcharges; ask before you pay.
+
+Exposé
+#thaiamulet #amulet #scamalert #thaibuddhism #singapore
+
+ON SCREEN: hook "$11 AMULET. / $2,830 PRICE." + ribbon "EXPOSÉ · THAI AMULETS" (frame 1); tags FACT x3, RED FLAG, BELIEF, ASK; 1x->71x counter; captions in the safe area.
+Rules: exposes the practice only; no named person, shop, temple or master (Chonburi case stays "Chonburi"); no monk shown handling money; no "luck"/"blessing".
+
+SOURCES:
+- Religioscope, Kwan Yuk Sing, "The Transnational Trade of Thai Buddhist Amulets in China and Hong Kong" (June 2026): https://religion.info/pdf/2026_06_Sing_Thai_Amulets.pdf  (71x mark-up: 80-130 baht wholesale vs up to RMB 1,938; "violently attract money" marketing; buyers in crisis incl. debt, illness, gambling; "karmic debt" cures; "rented" because no one can own the Buddha's image; vendor who quit shadow amulets and now trades amulets for charity donation receipts)
+- VOA, "As Chinese Tourists Return to Thailand, So Do Scams Targeting Them" (14 Sep 2023): https://www.voanews.com/a/as-chinese-tourists-return-to-thailand-so-do-scams-targeting-them-/7269404.html  (20 charged; ~US$11 fakes sold for US$715-2,830 after temple rituals)
+
+QA: passed (contact sheet checked; safe-area overlay checked on 18 frames; no black/frozen spans; -15 LUFS)
+Score: 8.9/10 (hook 9, pacing 8.8, visuals 9.2, facts 9, ending 8.7)
+Made by TT Media Manager, 27 Nov 2026. Source: studio videos/shorts/amulet-dealer-expose/
