@@ -20,3 +20,13 @@ Made with: Google Flow (Nano Banana 2.1 start frame + Veo 3.1 Fast image-to-vide
 --- Story version (v1, 25 Nov 19:40) ---
 story-v1.mp4: 32.3 s narrated mini-story (voice bm_fable 0.92, script in voice-script.txt), shots: arm (Veo Fast) / husband Mak in the doorway (Veo Lite) / arm again / freeze on Mak. Subtitles top, hook + end question, AI label. QA 8.7 (draft).
 v2 plan (tomorrow's free credits): add shot "Nak waiting at the door as Mak comes home at dusk" over sentence 3 and "the lime rolling off the floor" over sentence 4, extend to about 40-45 s, then pick loop vs story for posting.
+
+--- Story version 2 (27 Nov 12:40) ---
+story-v2.mp4: 40.2 s narrated story, voice af_heart (natural, 0.94) with pauses, -14 LUFS.
+New Veo 3.1 Fast shots (27 Nov, 40 credits): Nak waiting in the doorway with her back to camera as Mak walks home and waves; a green lime rolling off the teak floor and dropping under the house.
+Order: arm payoff (hook) / doorway (war, village, Mak comes home) / lime / arm stretching (reversed) / Mak "he knew" (bell, music stops) / doorway close: shrine fact + "Would you have run?"
+Labels: LEGEND (Mae Nak of Phra Khanong), FACT (shrine at Wat Mahabut), "AI-generated scene" tag every frame, @S logo. Ribbon "THAI GHOST FILES" (part number to set at booking).
+Sound: the clips' own ambience + crickets, soft piano (stops for "he knew"), temple bells. Music -11 dB, SFX -13 dB under the voice.
+QA: passed (contact sheet checked) - 8.7. Caption sits over part of the arm in the arm shot (arm still readable above and below).
+Status: HOLD. Topic already posted 21 Nov (Mae Nak video): book mid-December at the earliest as Thai Ghost Files, isAigc on.
+Suggested caption: Thailand's most famous ghost: while Mak was away at war, his wife Nak died giving birth... and when he came home, she was waiting for him 👻 Then a lime rolled under the house. Would you have run? 👇 / Fact check 🔎 LEGEND: Mae Nak of Phra Khanong. FACT: her shrine is at Wat Mahabut, Bangkok, where people still leave dresses and toys. AI-generated scene, not real footage. / Thai Ghost Files / #maenak #thaighost #thaifolklore #ghoststory #thailand
