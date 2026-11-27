@@ -15,3 +15,4 @@ Fact check 🔎 FACT: Wat Pa Maha Chedi Kaew ("Million Bottle Temple") is in Khu
 - Brand names are spoken and in the caption only; no logos or labels in the art.
 - Quality score: 9.5/10 (hook 2/2 · first 3 s 1/1 · story and twist 1.8/2 · visuals 1.8/2 (one bottle-wall shot has a plain white area) · captions 1/1 · sound 0.9/1 · rules 1/1). 46.8 s, -15.2 LUFS, peak -2.7 dBFS, 0 frozen/black spans.
 - QA: passed (contact sheet checked)
+- QA FIX 27 Nov 15:30: captions re-set on a solid caption bar so no word reaches TikTok's right-hand buttons (max x 900); same words and timing; audio untouched. Score 8.7.
