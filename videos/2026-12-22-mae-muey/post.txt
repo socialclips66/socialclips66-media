@@ -1,6 +1,6 @@
 Title: She Died Pregnant at 27. Now She's an Amulet.
 Series: Thai Ghost Files, Part 10 (provisional: confirm the number when booking; the ribbon on frame 1 says PART 10, a 2-minute re-render if it changes)
-Status: HOLD for Gaston's review. Not booked. Ask Gaston about mid/late December.
+Status: BOOKED Tue 22 Dec 2026 18:30 SGT (Metricool), Gaston chose late December (27 Nov 13:04). Part 10 assumes batch 6 delivers Ghost Files Pts 8-9 before 22 Dec.
 Format: 59.9 s, 1080x1920, voice from 0.0 s (Kokoro af_heart, normal speed, natural pauses), -14 LUFS. Sound redone for a natural feel: soft piano + warm pad in room reverb (-11 dB under the voice), rain, a distant muffled crash, fire crackle, irregular night crickets and temple bells (-14 dB); no synth stings or whooshes; music stops for the twist. @S📎™ logo top-right on every frame.
 AI label: ON when booking (tiktokData.isAigc = true; FLUX mural stills). No real photos (Gaston, 26 Nov 18:01): the amulet and Arjan Sek are photoreal look-alikes made in Google Flow (Nano Banana 2.1); murals from Draw Things.
 
