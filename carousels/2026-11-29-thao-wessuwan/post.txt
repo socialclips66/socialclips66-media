@@ -1,5 +1,5 @@
 ### The Giant Every Thai Ghost Obeys
-- Type: carousel (8 slides), new bold template (Anton titles, Poppins Bold body, yellow key words, image top / solid panel)
+- Type: carousel (8 slides), bold template v2 (Montserrat ExtraBold titles, Montserrat SemiBold off-white body, yellow key phrases, image top / solid panel)
 - Series: Thai Ghost Files (carousel, no part number)
 - Title: The Giant Every Thai Ghost Obeys
 - Preferred date/time (SGT): Sun 29 Nov 2026 12:00
@@ -17,5 +17,5 @@ Thai Ghost Files
 - AI label: on (Google Flow artwork)
 - Sources: watchulamanee.org/th/knowledge/prawat-thao-wessuwan (Wat Chulamanee, history of Thao Wessuwan); horoscope.trueid.net/detail/kNGZPD43En4w (worship steps, Luang Pho It's dream and the Phetchaburi sculptor); thairath.co.th (ruler of unruly ghosts, guardian of the land's treasures); sanook.com/travel/1429689 (Wat Chulamanee, Amphawa).
 - Labels: slide 2 FACT; slides 3-6 BELIEF; slide 7 HOW TO.
-- QA: passed (contact sheet checked). Score 8.7/10. Text contrast 11.6-19.8:1; all text above TikTok's caption zone; no faces covered.
+- QA: passed (contact sheet checked). Score 8.9/10 (v2, 27 Nov 13:20: easier font, shorter wording, uniform titles). Text contrast 11.7-17.6:1; all text above TikTok's caption zone; no faces covered.
 - Added by: TT Media Manager, 27 Nov 2026
