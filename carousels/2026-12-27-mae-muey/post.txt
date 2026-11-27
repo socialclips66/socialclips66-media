@@ -17,3 +17,5 @@ Sources: as in videos/hold-mae-muey/post.txt.
 QA: passed (contact sheet checked) - 9.0.
 QA (27 Nov 15:15 FIX): all text inside TikTok's safe area (above y 1520, right edge <= 908 beside the buttons), checked with TikTok's caption and buttons overlaid; wording tightened. Score 8.8.
 QA FIX 27 Nov 15:25: TikTok safe area (text above y 1520, right edge ≤908), every word machine-checked; faces clear. Score 8.8.
+
+- 28 Nov sweep (TT Media Manager): slides re-checked against the safe area; titles kept off the artwork; caption as booked in Metricool is the current one (see Mission Control). QA: passed (contact sheet checked).

@@ -1,2 +1,4 @@
 
 27 Nov 2026 rebuild (TT Media Manager): bold template v2 (Montserrat) with Google Flow art (Nano Banana 2.1, 2K); all text inside the TikTok safe area (check passed in code). QA: passed (contact sheet checked). Score 8.8 (cover 9.2, readability 9, art 9, facts 8.8).
+
+- 28 Nov sweep (TT Media Manager): slides re-checked against the safe area; titles kept off the artwork; caption as booked in Metricool is the current one (see Mission Control). QA: passed (contact sheet checked).

@@ -1,1 +1,3 @@
 QA FIX 27 Nov 15:20: layout raised so all text sits inside TikTok's safe area (above y 1520, right edge ≤920); every line machine-checked; cover sub and koi text shortened. Score 8.5 (control post, design kept).
+
+- 28 Nov sweep (TT Media Manager): slides re-checked against the safe area; titles kept off the artwork; caption as booked in Metricool is the current one (see Mission Control). QA: passed (contact sheet checked).
