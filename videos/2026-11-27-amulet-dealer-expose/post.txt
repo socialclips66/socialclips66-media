@@ -13,7 +13,7 @@ Fact check 🔎 FACT: in 2023 Thai police charged 20 people in Chonburi over fak
 Exposé
 #thaiamulet #amulet #scamalert #thaibuddhism #singapore
 
-ON SCREEN: hook "$11 AMULET. / $2,830 PRICE." + ribbon "EXPOSÉ · THAI AMULETS" (frame 1); tags FACT x3, RED FLAG, BELIEF, ASK; 1x->71x counter; captions in the safe area.
+ON SCREEN: hook "$11 AMULET. / $2,830 PRICE." + ribbon "EXPOSÉ · THAI AMULETS" (frame 1); tags FACT x3, RED FLAG, BELIEF, ASK ("Ask the temple's price first"); 1x->71x counter; captions in the safe area.
 Rules: exposes the practice only; no named person, shop, temple or master (Chonburi case stays "Chonburi"); no monk shown handling money; no "luck"/"blessing".
 
 SOURCES:
@@ -23,3 +23,5 @@ SOURCES:
 QA: passed (contact sheet checked; safe-area overlay checked on 18 frames; no black/frozen spans; -15 LUFS)
 Score: 8.9/10 (hook 9, pacing 8.8, visuals 9.2, facts 9, ending 8.7)
 Made by TT Media Manager, 27 Nov 2026. Source: studio videos/shorts/amulet-dealer-expose/
+
+v2 (27 Nov 16:55): music + SFX ducked ~14 dB under the voice (every spoken word >=6.5 dB above the bed; effects moved off words); ASK tag reworded. Voice/script verified by ASR against the script.
