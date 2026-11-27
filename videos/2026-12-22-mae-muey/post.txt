@@ -17,3 +17,5 @@ Sources: Arjan Sek's account (via Gaston, 26 Nov 2026); Wikipedia "Phi Tai Hong"
 Full story copy: claude.ai doc "Mae Muey: The True Story (as told by Arjan Sek)".
 
 QA: passed (contact sheet checked) - 9.0. Frame 1 = Mae Muey holding the real amulet + hook "SHE DIED PREGNANT AT 27 / NOW SHE'S AN AMULET"; first sentence says "Thai amulet"; twist at 44.3 s (75%) "her own soul still cannot ascend"; ends on "Would you carry her?". STORY / BELIEF / HOW TO badges; captions never over a face; no corpse, no gore, no price, no shop link; AI seals and fake lettering removed.
+
+QA 27 Nov 2026: hook re-set inside the TikTok safe area (3 lines in a panel, series ribbon moved to the top), captions re-set in the caption bar clear of the buttons. Contact sheet checked.
