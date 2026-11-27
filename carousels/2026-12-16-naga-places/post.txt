@@ -35,8 +35,10 @@ https://www.chiangmai-alacarte.com/the-naga-staircase-of-buddhist-temples/
 https://www.tourismthailand.org/Attraction/wat-roi-phra-phutthabat-phu-manorom
 https://en.wikipedia.org/wiki/Naga_fireballs
 
-QA: passed (contact sheet checked)
+QA: passed (contact sheet checked; 27 Nov rebuilt in bold template v2, TikTok safe-area check passed in code)
 Contrast: passed (min ratio 5.0:1) — every word on a >=70% black band (90% core); body text 56 px, titles 96–104 px; series ribbon and FACT/BELIEF/LEGEND tags 44–46 px on solid pills (ratio 8.9:1+); nothing in the bottom 20% or right 12%; checked at 270 px, 360 px, grayscale, low brightness and the 150 px cover.
 Score: 8.8/10 (cover hook 9, readability 9, art 8.5, facts and labels 9, ending CTA 9, rules 9)
 Art: supplied art from images/art/naga-carousel/ (not redrawn), Lanczos fill-crop.
 Made by: content chat (cloud session), generator images/naga_carousel.py in the studio repo.
+
+27 Nov 2026 rebuild (TT Media Manager): bold template v2 (Montserrat), Naga-eye art on the cover, all text inside the TikTok safe area. Score 8.8/10 (cover 9, readability 9, art 8.5, facts 9).
