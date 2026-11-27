@@ -19,3 +19,4 @@ Thai Ghost Files
 - Labels: slide 2 FACT; slides 3-6 BELIEF; slide 7 HOW TO.
 - QA: passed (contact sheet checked). Score 8.9/10 (v2, 27 Nov 13:20: easier font, shorter wording, uniform titles). Text contrast 11.7-17.6:1; all text above TikTok's caption zone; no faces covered.
 - Added by: TT Media Manager, 27 Nov 2026
+QA (27 Nov 15:15 FIX): all text inside TikTok's safe area (above y 1520, right edge <= 908 beside the buttons), checked with TikTok's caption and buttons overlaid; wording tightened. Score 8.8.
