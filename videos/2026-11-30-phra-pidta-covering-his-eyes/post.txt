@@ -1,0 +1,24 @@
+Post: Why Is This Thai Amulet Covering Its Eyes? (Phra Pidta)
+Type: video, 47.3 s, 1080x1920, -14.3 LUFS, 22 shots
+When: Mon 30 Nov 2026, 12:00 SGT (Metricool). TikTok AI-generated label ON (isAigc).
+Series: Thailand's Sacred Mysteries, Special (no part number)
+QA: passed (contact sheet checked) - 8.7/10. 39 frames checked against the safe-area lines, every transition and one full-size frame per shot; no black or frozen spans; voice at least 11 dB above the backing; no child shown; the Buddha is not depicted; no monk shown with money.
+Repeat check: Phra Pidta has not been posted. No overlap with 4 Rules of Thai Amulets, the exposé posts or the Benjapakee carousel.
+
+Caption:
+Thailand's Sacred Mysteries, Special: Why is this Thai amulet covering its eyes? 👀 This is Phra Pidta, and most people get him wrong. Legend says he was once so handsome that people mistook him for the Buddha... then he did something no one expected. Would you give up your looks for peace? Yes or no? 👇
+
+Fact check 🔎 LEGEND: the story comes from Thai folklore about the monk Phra Sangkachai, and amulet tradition tells it of Phra Pidta. BELIEF: the hands over the eyes stand for shutting out the senses in meditation, and wearers carry him for protection and wealth. AI-generated scenes, not real footage.
+
+#phrapidta #thaiamulet #thaibuddhism #thaifolklore #thailand
+
+On-screen labels: LEGEND Thai folk tale of Phra Sangkachai / LEGEND He changed his looks by his own power / BELIEF Covered eyes = shutting out the senses / BELIEF Worn for protection and wealth. "AI-generated scene" tag on every frame at the bottom edge.
+
+Sources:
+- Wikipedia, "Budai", section Phra Sangkajai: Thai folklore says he was so handsome that a man once wanted him for a wife, and that angels and men compared him with the Buddha, so he changed himself into a fat monk. https://en.wikipedia.org/wiki/Budai
+- Wikipedia, "Katyayana (Buddhist)": known in Thai Buddhism as Phra Sangkajai; the Soreyya story from the Dhammapada commentary. https://en.wikipedia.org/wiki/K%C4%81ty%C4%81yana_(Buddhist)
+- Incantation Ink Amulets, "The Legend of Phra Pidta": the same story told of Phra Pidta; hands over the eyes = blocking out the outside world in meditation; worn for wealth and protection. https://incantationinkamulets.com/blogs/news/the-legend-of-phra-pidta
+- Who the figure represents is tradition, not history; the video says "legend says".
+
+Made with: 12 Google Flow stills (Nano Banana 2.1, 0 credits), no Flow video clips. Edited with the fx shot engine (studio videos/fx): depth parallax, depth of field, rack focus, water ripples, flame sway, haze, rays, punch/whip/flash cuts. Voice: Google AI Studio (Gemini Flash TTS, speaker Fola, steady full voice, no whisper), levelled per phrase. Studio videos/shorts/phra-pidta (storyboard.md). Made by TT Media Manager, 28 Nov 2026.
+Decision: Gaston 28 Nov 17:01 asked why Flow credits are still needed when the engine edit works; booked without Flow clips as the test of that.
