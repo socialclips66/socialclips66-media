@@ -7,11 +7,15 @@ What changed (remake per videos/briefs/2026-11-28-cartoon-remake-rollout.md):
 - New voice: Gemini TTS "Daro" (made in the cloud), same script with the "..." removed, levelled with level_voice.py; voice 8.6 dB or more above music/SFX in every half second.
 - New animation: 19 shots cut on word onsets (was 9). Storm hook with lightning and debris; Chiang Rai establishing wide; the chedi splits on "split"; push into the plaster Buddha; the abbot walks, leans in and points; nose close-up flakes; the abbot's shocked reaction; green glint; two monks chip the plaster away; jade reveal with light shafts and monks bowing (wai); envoy sends the elephant; it refuses with 1-2-3 counters (sign fully readable); LAMPANG lights up; Bangkok crane; robes and the three seasonal costumes (hot / rainy / cool) with matching light and weather; studio twist, EMERALD? → NOT EMERALD slam, JADE / JASPER, HOW TALL? with ruler. Foreground layers, grain, light leaks, depth of field; tags always sharp.
 - New music and sound design (storm, chisels, elephant trumpets on each refusal, shimmer on reveals).
-- Unchanged: story, facts, frame-1 hook LIGHTNING CRACKED IT / OPEN IN 1434. (no ribbon, as booked), labels (CLAIM / FACT / LEGEND / FACT / FACT), caption and hashtags in Buffer.
+- Unchanged: story, facts, frame-1 hook LIGHTNING CRACKED IT / OPEN IN 1434., labels (CLAIM / FACT / LEGEND / FACT / FACT), caption and hashtags in Buffer.
 - The King is never shown (robes change with sparkles only).
 
 Caption: keep the one already in Buffer.
 
 Score: 8.7/10 (hook readable on frame 1, something new every 1.5–2.5 s, acting on the key words, twist in the last third, easy end question; minus: the Chiang Rai wide is a little dark in the rain).
 Checks: safe area (labels y 264–336, stamps below 190, captions above 1520, nothing right of 920 in 840–1600), captions never on a face (reaction shot re-framed), no black/frozen spans, -14.3 LUFS, peak -3.1 dBFS.
+Re-delivery 28 Nov 23:30 (TT Media Manager review 8.6–8.7, two fixes):
+- Series ribbon "THAILAND'S SACRED MYSTERIES · PART 4" added to frame 1 (0–4.1 s), styled as on Nang Ta-khian, ribbon top y≈266.
+- Last shot: the "? cm" tag moved to the left side of the ruler, now x≈660–810 (left of 920); the ruler sits at x≈790–850.
+Nothing else changed.
 QA: passed (contact sheet checked)
