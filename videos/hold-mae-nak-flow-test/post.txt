@@ -38,3 +38,6 @@ Voice: Kokoro bm_fable 0.98, new hook-first script (voice-script.txt in studio v
 On screen: ribbon "THAI LEGEND · MAE NAK", LEGEND tags, FACT "Her shrine: Wat Mahabut, Bangkok", AI tag at the bottom (inside the safe area), captions max 660 px wide.
 QA: passed (contact sheet checked; no black or frozen spans; safe area incl. decorations). Score 8.7/10 (hook 9, pacing 9, visuals 8.8, sound 8.5, ending 8.3).
 NOT BOOKED: waiting for Gaston's review. Mae Nak was already posted on 21 Nov, so this is a remake test of the new Flow standard. Turn on the AI label (isAigc) when booking.
+
+--- v3 voice E (28 Nov 14:15) ---
+Gaston: the bm_fable voice-over was terrible; picked sample E. story-v3.mp4 is now 45.6 s, 19 shots, voice af_heart 0.84 with the eerie treatment (studio videos/shorts/mae-nak-v3/eerie.sh: lower pitch, room echo, whisper layer at -8 dB), script re-cut into short lines with pauses. AI tag moved to the very bottom edge (y 1852-1912), under TikTok's caption. -14.4 LUFS; no black or frozen spans. Still NOT booked: Gaston says E is acceptable "for now"; a more expressive free voice is being looked for.
