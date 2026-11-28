@@ -1,0 +1,20 @@
+### The 5 Amulets Thai Collectors Dream Of (Benjapakee)
+- Type: carousel (8 slides), 1080x1920, bold template v2
+- Series: Thailand's Sacred Mysteries (carousel, no part number)
+- Slot: Tue 1 Dec 2026, 12:00 SGT (Metricool)
+- Title (TikTok title): This Tiny Tablet Is Worth Over 10 Million Baht
+- QA: passed (contact sheet checked) - 8.7/10. Safe area incl. ribbon and logo (top edge y 192+), no text right of x=920 or below y=1520, every word readable.
+- Repeat check: no earlier post on the Benjapakee. 4 Rules of Thai Amulets (27 Nov) covers how amulets are handled; the exposé posts cover pricing tricks.
+- Caption:
+This tiny tablet is worth more than 10 million baht 👀 Thai collectors call the top five amulets the Benjapakee, and number 4 was found because of thieves. Which one would you wear? Comment 1–5 👇
+Save this for the amulet market 📌 and send it to a friend who collects amulets 🙏
+
+Fact check 🔎 FACT: the Benjapakee are Phra Somdej Wat Rakhang (Bangkok, made around 1866–1871 by Somdej Toh), Phra Rod (Lamphun), Phra Nang Phaya (Phitsanulok, found 1901), Phra Phong Suphan (Suphan Buri, found 1913) and Phra Sum Kor (Kamphaeng Phet). Originals are valued at over 10 million baht. LEGEND: a queen of Ayutthaya having Phra Nang Phaya made; Somdej Toh finding Phra Sum Kor in 1849. BELIEF: what each one is worn for. Pictures are illustrations, not the real pieces.
+
+Thailand's Sacred Mysteries
+#thaiamulet #benjapakee #phrasomdej #thaibuddhism #thailand
+- Sources:
+  - Wikipedia, "Thai Buddha amulet" (Benja Phakhi section): the five amulets; Phra Somdej Wat Rakhang made around 1866-1871 by Somdej Toh; Phra Rod found in a collapsed stupa at Wat Mahawan, Lamphun; Phra Nang Phaya believed commissioned by Queen Wisutkasat, found during digging at Wat Nang Phaya; Phra Phong Suphan found in a dig ordered by the Suphanburi governor in 1913 after thieves dug under the stupa; Phra Sum Kor found by Somdej Toh at Wat Phra Borommathat Nakhon Chum in 1849; valued at over 10 million baht. https://en.wikipedia.org/wiki/Thai_Buddha_amulet
+  - Merit Messenger, "Benjapakee: The Five Classic Thai Amulets": benja = five; set grouped by mid-20th-century collectors; Phra Rod from the Hariphunchai kingdom about a thousand years ago, Rod = to escape; Nang Phaya clay triangle, major find BE 2444 (1901); Phong Suphan unearthed BE 2456 (1913); Sum Kor arch tablet, "With me, you shall never be poor"; what each is worn for; originals trade for millions of baht. https://www.meritmessenger.com/en/articles/benjapakee-five-classic-thai-amulets-explained
+- Single-source items, worded as tradition/legend on the slide: the 1849 find by Somdej Toh; the queen.
+- Art: Google Flow (Nano Banana 2.1), 7 images made 28 Nov, 0 credits; illustrations of each amulet's shape, not photos of real pieces. Studio images/art/benjapakee/, spec images/carousel_specs/2026-12-01-benjapakee-bold.py. Made by TT Media Manager.
