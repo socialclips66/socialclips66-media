@@ -1,0 +1,24 @@
+STATUS: Booked Sun 29 Nov 2026 18:30 SGT (Metricool), third post of the day (Gaston 28 Nov: 3 a day, ride the wave)
+Series: Thailand's Sacred Mysteries (carousel, no part number)
+Type: carousel (7 slides, 1080x1920)
+Title (TikTok title): 5 Rules of the Tiny House Outside Every Thai Home
+Why: same shape as the best post on the account (4 Rules of Thai Amulets): numbered rules worth saving, hook-first caption, new topic.
+
+CAPTION:
+5 rules of the tiny house outside every Thai home 🏠 It's called a spirit house, and number 5 is why you see hundreds of them piled up in one place. Is there one near your home? Yes or no? 👇
+Save this for your Thailand trip 📌 and send it to someone who has walked past one.
+
+Fact check 🔎 FACT: a spirit house (san phra phum) is a small shrine for the guardian spirit of the land. A Brahmin priest or ritual expert usually picks its date, spot and direction, and red strawberry soda is one of the most common offerings. BELIEF: the main house's shadow must not fall on it, and an old one is never thrown in the bin; retired spirit houses gather at resting places, often beside temples. Nobody agrees on why the soda is red.
+
+Thailand's Sacred Mysteries
+#spirithouse #thaiculture #thaibeliefs #thailand #thailandtravel
+
+SOURCES (two per rule):
+- Wikipedia, "Spirit house": outside the shadow of the main house; away from toilets, the front door and boundaries; Brahmin or ritual specialist picks date, spot and direction; northeast most auspicious; rice, bananas, coconuts, desserts; red strawberry Fanta most common, colour linked to sacrifice or red incense water. https://en.wikipedia.org/wiki/Spirit_house
+- Observer Group, "Every Thai building has a smaller one beside it: san phra phum": shadow rule; Brahmin priest or elder sites it; northeast; red soda; passers-by wai; retired spirit houses accumulate at sites near temples. https://www.observergroup.net/guide/spirit-house-every-building/
+- Thailex, "spirit house graveyard": an old spirit house cannot be thrown out with household trash. https://www.thailex.info/THAILEX/THAILEXENG/LEXICON/spirit%20house%20graveyard.htm
+- Asia Bound, "Why Are There Tiny Spirit Houses Everywhere in Thailand?": old ones are not thrown out with the trash. https://goasiabound.com/blog/thailand-spirit-houses-explained/
+Art: Google Flow images (28 Nov), originals in studio images/art/spirit-house/. No brand label on the soda bottle; priest shown from behind; hands only on the wai slide.
+QA: passed (contact sheet checked with the safe-area overlay; in-code check on every text box; no frames, counters or ornaments outside the safe area)
+Score: 8.7/10 (hook 8.8, readability 9, facts 8.8, visuals 8.8, ending 8.3)
+Made by TT Media Manager, 28 Nov 2026. Spec: studio images/carousel_specs/2026-12-01-spirit-house-rules-bold.py
