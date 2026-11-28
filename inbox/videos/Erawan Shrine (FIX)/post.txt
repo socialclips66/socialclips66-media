@@ -37,5 +37,10 @@ Checks
 - Captions never cover a face (checked every shot); every on-screen word readable, including the closing "COME BACK? YES / NO".
 - TikTok safe area: no text or marks above y=190, below y=1520, or right of x=920 between y=840 and 1600.
 - No black or frozen spans (ffmpeg blackdetect/freezedetect).
+Review fix (TT Media Manager 8.3, 28 Nov): dancer shot 33.6-36.8 s, the foreground garland now
+stays at the right frame edge below the "A THANK-YOU DANCE" sign and never crosses the dancer's face
+or the sign; sign kept sharp (shallower focus blur). Same check on every foreground layer: the
+scaffold in the construction shot (7.9-9.7 s) also crossed the "ERAWAN HOTEL" sign and is now held
+at the right edge. Foreground layers now follow the camera, so they stay at the edges. Nothing else changed.
 QA: passed (contact sheet checked)
 Made by: TT Videos chat, 28 Nov 2026
