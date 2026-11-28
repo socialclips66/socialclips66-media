@@ -1,5 +1,5 @@
 Post: Mae Nak: Her Arm Stretched Through the Floor
-Type: video, 55.4 s, 1080x1920, -14.3 LUFS, 23 shots
+Type: video, 53.8 s, 1080x1920, -14.5 LUFS, 23 shots
 When: Wed 16 Dec 2026, 18:30 SGT (Metricool). TikTok AI-generated label ON (isAigc).
 Series: Thai Ghost Files, Part 8
 Label: LEGEND (Mae Nak of Phra Khanong); FACT (her shrine is at Wat Mahabut, Bangkok). "AI-generated scene" tag on every frame, at the bottom edge.
@@ -18,5 +18,5 @@ Sources:
 - Retold in many Thai films, e.g. Nang Nak (1999)
 
 Made with: Google Flow (8 video clips, Veo 3.1 Fast / Lite; 6 stills) edited by TT Media Manager; pipeline in studio videos/shorts/mae-nak-v3.
-Voice: Google AI Studio speech tool (Gemini Flash TTS, speaker Fola), take K2, chosen by Gaston 28 Nov; raw take in raw/voice/mae-nak-v3-google-K2.wav. Free tier; Google lists it as free of charge, no written statement from Google on commercial use of free-tier audio (checked 28 Nov).
+Voice: Google AI Studio speech tool (Gemini Flash TTS, speaker Fola), take K4 (28 Nov 15:17). Gaston on K2: the whisper is too soft and the voice goes soft, normal, soft, normal. K4 direction: full clear voice at one steady volume, never whisper; script typed without ellipses; each phrase levelled to the same speech-band volume (level_voice.py); backing never closer than 7 dB to the voice. Raw take in raw/voice/mae-nak-v3-google-K4.wav. Free tier; no written statement from Google on commercial use of free-tier audio (checked 28 Nov).
 Earlier versions and history: videos/hold-mae-nak-flow-test/post.txt
