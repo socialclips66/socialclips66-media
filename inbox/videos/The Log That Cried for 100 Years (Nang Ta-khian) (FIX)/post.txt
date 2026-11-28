@@ -1,0 +1,13 @@
+Post Name: The Log That Cried for 100 Years (Nang Ta-khian) (FIX)
+Type: video FIX (cartoon, Track A), 52.5 s
+Slot: Thu 17 Dec 2026, 18:30 SGT, Metricool 445377971 (swap the video only)
+Series: Thai Ghost Files, Part 9
+
+FIX (requested by TT Media Manager 28 Nov): frame-1 hook text changed to
+  THIS LOG CRIED / FOR 100 YEARS
+Nothing else changed: same picture, voice (Cruz), sound, captions, labels, ribbon "THAI GHOST FILES · PART 9".
+Caption and title: keep the re-angled ones already in Metricool (crying-log angle).
+Sources: unchanged, see videos/2026-12-17-nang-takhian/post.txt.
+
+Checks: hook inside the safe area (ribbon top y≈266, hook lines y≈400–560), full strength from frame 0, fades at 3.5 s; -14.7 LUFS, peak -3.2 dBFS; no black/frozen spans.
+QA: passed (contact sheet checked)
