@@ -1,0 +1,55 @@
+Post Name: The Tree Thai Builders Refuse to Cut
+Type: video (cartoon, Track A animation standard)
+Slot: Thu 17 Dec 2026, 18:30 SGT (batch 6, Video B)
+Series: Thai Ghost Files, Part 9
+Voice: Gemini TTS "Cruz" (new narration voice, Gaston 28 Nov), made in the cloud with videos/fx/gemini_tts.py, levelled with level_voice.py
+
+TikTok title: Thai Ghost Files Part 9: The Tree Thai Builders Refuse to Cut
+
+Caption:
+Thai Ghost Files, Part 9: Thai builders refuse to cut this tree 😨 They say a woman lives inside the Ta-khian, and if you cut it, she follows the wood into your house. In Saraburi, one 13-metre Ta-khian log is said to have cried in the river for 100 years, until 30,000 people pulled it out in 1958. Would you sleep under a Ta-khian beam? Yes or no? 👇
+
+Fact check 🔎 LEGEND: Nang Ta-khian is the spirit of the giant Ta-khian (Hopea odorata) tree, and Thais say she follows the wood into houses. LEGEND: the Sao Hai pillar was floated to Bangkok, arrived too late, drifted back and cried at night. FACT: Sao Hai district takes its name from that legend, and the log was raised from the Pa Sak River on 23 April 1958 and is kept at Wat Sung.
+
+#thaighost #nangtakhian #thaighoststory #thaifolklore #thailand
+
+On-screen labels
+LEGEND  A spirit lives in the Ta-khian tree
+BELIEF  Her spirit follows Ta-khian wood
+LEGEND  Sent to Bangkok as a pillar, too late
+LEGEND  It floated back and cried at night
+FACT    Sao Hai district, Saraburi Province
+FACT    Raised from the Pa Sak River, 23 Apr 1958
+FACT    Kept today at Wat Sung, Sao Hai
+
+Sources
+- Wikipedia, "Nang Ta-khian": https://en.wikipedia.org/wiki/Nang_Ta-khian (spirit, wood not felled, follows the wood, monastery merit, satin wraps)
+- ThaiWorldView, "Spirits": https://www.thaiworldview.com/bouddha/animism5.htm (Nang Takian in hopea trees, coloured satin, trees ordained by monks)
+- Wikipedia, "Hopea odorata": https://en.wikipedia.org/wiki/Hopea_odorata (tree up to 45 m, termite-resistant wood)
+- Thairath, 27 Apr 2017, "นางตะเคียนร้องไห้ ตำนานเสาไห้": https://www.thairath.co.th/news/local/central/925017 (pillar legend, raised 23 Apr 1958, about 30,000 people, Wat Sung)
+- Saraburi province site, "เสาร้องไห้": https://saraburi2015.wordpress.com/เสาร้องไห้/ (13 m long, 100+ years in the river, 1958, Wat Sung)
+
+Video: 1080x1920, 30 fps, 52.5 s, H.264 + AAC, 47.9 MB. Loudness -14.7 LUFS, peak -3.2 dBFS.
+Animation (Track A standard): 18 shots (a cut about every 2.9 s), characters act (blinks, breathing, anticipation and overshoot,
+lip-flap on the official, head shakes), 3 depth layers (foreground leaves/crowd, subject, background) with visible light
+(lamp, lanterns, ghost glow, light shafts), atmosphere (fireflies, mist, rain, incense, petals, bubbles, spray), animated tags
+and counters, moving camera in every shot, snap-zoom on the twist, green lightning as the log rises (from the Thai sources).
+Sound: Thai pentatonic score per section, ambience under every scene, whoosh on each cut, hits shifted off spoken words,
+music ducked under the voice; voice at least 8.9 dB above music+SFX in every voiced half second (rule: 7 dB).
+
+Quality score: 8.9/10
+- Frame 1 hook 1.7/2 (tree in satin + ghost + builders + hook text + ribbon; the ghost is small)
+- First 3 seconds 0.9/1
+- Story and twist 1.8/2 (twist at 38.5 s of 52.5 s)
+- Visual quality 1.6/2 (axe beat, ceiling beam and downriver shot are darker/weaker than the rest)
+- Captions and text 0.95/1
+- Sound 0.95/1
+- Rules 1/1
+
+Checks
+- Frame 1: payoff image + hook "BUILDERS REFUSE / TO CUT THIS TREE" + ribbon "THAI GHOST FILES · PART 9"; voice from 0.0 s.
+- Captions never cover a face (every shot checked); every on-screen word readable.
+- TikTok safe area: labels, tags, ribbon and YES/NO inside (nothing above y=190, below y=1520, or right of x=920 between y=840-1600).
+- Motion audit: no frozen holds, no dark frames; only intended jumps (cuts, axe hit, wake-up pop, twist snap-zoom, lightning).
+QA: passed (contact sheet checked)
+Made by: TT Videos chat (cloud session), 28 Nov 2026
