@@ -30,3 +30,11 @@ Sound: the clips' own ambience + crickets, soft piano (stops for "he knew"), tem
 QA: passed (contact sheet checked) - 8.7. Caption sits over part of the arm in the arm shot (arm still readable above and below).
 Status: HOLD. Topic already posted 21 Nov (Mae Nak video): book mid-December at the earliest as Thai Ghost Files, isAigc on.
 Suggested caption: Thailand's most famous ghost: while Mak was away at war, his wife Nak died giving birth... and when he came home, she was waiting for him 👻 Then a lime rolled under the house. Would you have run? 👇 / Fact check 🔎 LEGEND: Mae Nak of Phra Khanong. FACT: her shrine is at Wat Mahabut, Bangkok, where people still leave dresses and toys. AI-generated scene, not real footage. / Thai Ghost Files / #maenak #thaighost #thaifolklore #ghoststory #thailand
+
+--- Story version 3 (28 Nov 13:50) ---
+story-v3.mp4: 41.4 s, 17 shots (v2 had 6), a cut every 2.4 s on average, opens on the stretching arm with the hook "HER ARM STRETCHED / THROUGH THE FLOOR."
+Sources of picture: 8 Flow clips (4 reused, 4 new on 28 Nov: Nak turning her head [Veo 3.1 Fast], Mak fleeing, shutters slamming, soldier walking home [Veo 3.1 Lite]) + 6 new Flow stills with camera moves. 50 credits used.
+Voice: Kokoro bm_fable 0.98, new hook-first script (voice-script.txt in studio videos/shorts/mae-nak-v3). Sound: the clips' own ambience, cut whooshes, heartbeat under the arm, hit on the twist cut at 29.7 s, drone bed; every voiced half-second at least 7.0 dB above the bed; -15.5 LUFS.
+On screen: ribbon "THAI LEGEND · MAE NAK", LEGEND tags, FACT "Her shrine: Wat Mahabut, Bangkok", AI tag at the bottom (inside the safe area), captions max 660 px wide.
+QA: passed (contact sheet checked; no black or frozen spans; safe area incl. decorations). Score 8.7/10 (hook 9, pacing 9, visuals 8.8, sound 8.5, ending 8.3).
+NOT BOOKED: waiting for Gaston's review. Mae Nak was already posted on 21 Nov, so this is a remake test of the new Flow standard. Turn on the AI label (isAigc) when booking.
