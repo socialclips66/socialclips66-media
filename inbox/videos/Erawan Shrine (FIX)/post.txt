@@ -1,0 +1,41 @@
+Post Name: Erawan Shrine (FIX)
+Type: video (FIX = media swap only)
+Replaces: the video in Metricool 444011412, Thu 3 Dec 2026 18:30 SGT (TikTok). Keep the slot.
+Series: Thailand's Sacred Mysteries, Part 8
+
+Caption, TikTok title and hashtags: UNCHANGED. Keep exactly what is booked in Metricool 444011412
+(title "Sacred Mysteries Part 8: The Shrine Built to Stop the Accidents"; caption starts
+"Thailand's Sacred Mysteries, Part 8: The Erawan Shrine story"; #ErawanShrine #BangkokTemple
+#ThaiBeliefs #PhraPhrom #Thailand). Only the video file changes.
+
+What changed (Track A pilot, ANIMATION-STANDARD.md, Gaston 28 Nov)
+- Same script, same voice (Kokoro bm_fable), same facts, same hook text "BUILT TO STOP / THE ACCIDENTS."
+- 19 shots, a cut every 2.7 s on average (was a few long shots). One over the 12-18 guideline because the 51 s script has 19 beats; no shot repeats.
+- Characters act: blinks, breathing, lip movement from the voice, anticipation and overshoot on gestures, nods, shock reactions.
+- Depth: foreground layers (scaffold, crowd, garlands, flowers, rope) that move at a different speed from the subject, soft shadows, gradient shading on every card, a visible light source (candle glow, light shafts, light leaks), vignette and film grain.
+- Camera always moves: push-ins, pans, snap-zoom and shake on the twist and on the accidents.
+- Atmosphere: incense smoke, rain and spray at sea, dust, embers, floating petals.
+- Animated text: hook punches in line by line; FACT / BELIEF / CLAIM tags slide in and out; year counters 1940->1956 and 1957->1987; word-pop captions.
+- Sound: ambience under every scene, whooshes on the cuts moved into gaps between words, a hit on the twist, music ducked about 14 dB under the voice. Loudness -15.2 LUFS, peak -2.8 dBFS.
+
+Tech: 1080x1920, 30 fps, 50.8 s, H.264 + AAC, 45.9 MB. Free tools only (own cartoon engine, Kokoro, ffmpeg).
+
+On-screen labels (unchanged)
+FACT   Brahma statue enshrined 9 Nov 1956
+FACT   Injuries, cost overruns, lost marble ship
+BELIEF Foundation laid on an inauspicious date
+FACT   Phra Phrom, the Thai form of Brahma
+CLAIM  Building went on without further incident
+FACT   Dancers are hired when prayers are answered
+FACT   Erawan Hotel demolished in 1987
+
+Sources: unchanged from the booked post (Erawan Shrine history: Wikipedia "Erawan Shrine";
+Grand Hyatt Erawan / Thao Maha Phrom Shrine history).
+
+Checks
+- Frame 1: payoff image (golden four-faced Brahma) + big hook + ribbon "THAILAND'S SACRED MYSTERIES · PART 8"; voice from 0.0 s.
+- Captions never cover a face (checked every shot); every on-screen word readable, including the closing "COME BACK? YES / NO".
+- TikTok safe area: no text or marks above y=190, below y=1520, or right of x=920 between y=840 and 1600.
+- No black or frozen spans (ffmpeg blackdetect/freezedetect).
+QA: passed (contact sheet checked)
+Made by: TT Videos chat, 28 Nov 2026
