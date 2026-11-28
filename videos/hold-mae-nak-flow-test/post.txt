@@ -47,3 +47,6 @@ Gaston rejected Kokoro (bm_fable, af_heart) and Chatterbox; picked sample K = Go
 
 --- v3 voice K2 (28 Nov 15:00) ---
 Gaston: voice K was a little too soft and not natural (it had been sped up 6% and its pauses cut). New take from Google AI Studio, same speaker (Fola), direction changed to: low hushed voice, clearly voiced, not whispering, natural like talking to one friend, steady natural pace, few short pauses. No tempo change or pause cutting; light compression and a presence lift; voice normalised to -16 LUFS and the backing held 12 dB under it. story-v3.mp4 is now 55.4 s, 23 shots, -14.3 LUFS, every voiced half-second at least 7 dB above the backing. Raw voice: raw/voice/mae-nak-v3-google-K2.wav. NOT booked.
+
+--- v3 booked (28 Nov 15:30) ---
+Gaston: "Do what you feel is right." K2 kept. Ribbon changed to "THAI GHOST FILES · PART 8", re-rendered, moved to videos/2026-12-16-mae-nak-arm-through-the-floor/video.mp4 and booked Wed 16 Dec 18:30 (Metricool, isAigc on). story-v3.mp4 removed from this folder.
