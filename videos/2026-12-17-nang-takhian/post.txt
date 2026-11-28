@@ -53,3 +53,12 @@ Checks
 - Motion audit: no frozen holds, no dark frames; only intended jumps (cuts, axe hit, wake-up pop, twist snap-zoom, lightning).
 QA: passed (contact sheet checked)
 Made by: TT Videos chat (cloud session), 28 Nov 2026
+
+--- Review by TT Media Manager, 28 Nov 20:10 ---
+Accepted for Thu 17 Dec 18:30 (Metricool). Score agreed at about 8.8: safe area clean on a 20-frame sheet, no black or frozen spans, -14.7 LUFS, sources good, twist strong.
+One change: the hook repeats Nang Tani (Thai Ghost Files Part 4, Mon 7 Dec 18:30, Buffer), whose script opens "a banana tree... that you must never cut" and says "she will follow you home". Two "never cut this tree, she follows you" ghost videos ten days apart in the same series read as a repeat.
+- Caption and TikTok title re-angled to the crying log, which only this video has: title "Thai Ghost Files Part 9: The Log That Cried for 100 Years".
+- FIX requested from TT Videos: frame-1 hook "THIS LOG CRIED / FOR 100 YEARS" instead of "BUILDERS REFUSE / TO CUT THIS TREE" (hookfix.py), and if easy, make the ghost on frame 1 larger. Nothing else changes. Deliver to inbox/videos/The Tree Thai Builders Refuse to Cut (FIX)/.
+Booked caption:
+Thai Ghost Files, Part 9: This log cried in a Thai river for 100 years 😨 Thais say a woman lives inside the giant Ta-khian tree and follows its wood wherever it goes. One 13-metre Ta-khian log was sent to Bangkok, arrived too late, floated home and cried at night... until 30,000 people pulled it out in 1958. Would you sleep under a Ta-khian beam? Yes or no? 👇
+(Fact check paragraph and hashtags unchanged.)
