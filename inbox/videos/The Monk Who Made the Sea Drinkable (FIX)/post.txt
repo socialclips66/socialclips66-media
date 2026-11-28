@@ -1,0 +1,16 @@
+Post Name: The Monk Who Made the Sea Drinkable (FIX)
+Type: video FIX (cartoon remake, Track A animation standard), 51.8 s
+Slot: Tue 1 Dec 2026, 18:30 SGT, Buffer 6b0406e86227a5d72b04acfc (swap the video only)
+Series: Thailand's Sacred Mysteries, Part 5
+
+What changed (remake per videos/briefs/2026-11-28-cartoon-remake-rollout.md):
+- New voice: Gemini TTS "Daro" (made in the cloud), same script with the "..." removed. Long silences between sentences trimmed to 0.68 s (the take is not sped up); levelled with level_voice.py; voice 8.7 dB or more above music/SFX in every half second.
+- New animation: 21 shots cut on word onsets (was 14). Glowing foot on the sea + ONE FOOT; today's car with the amulet + WHY?; voyage crane with a 0→400 YEARS AGO counter; crew point the way TO AYUTTHAYA; storm with lightning, spray and a rolling deck; the empty jar tips (NO FRESH WATER); DAY 1-2-3 with the sun racing; sailors slump in the heat; the quiet monk reveal and close-up (LUANG PU THUAT); he walks to the edge, the foot touches the sea, golden rings; a sailor tastes it; FRESH! celebration; studio twist with the amulet, MUCH LATER, the batch pops in with a 1954 counter, 0→300 YEARS LATER; red car on the road (PROTECTION), IN YOUR CAR?. Foreground layers, grain, light leaks, depth of field; tags always sharp.
+- New music and sound design.
+- Unchanged: story, facts, frame-1 hook HE MADE THE SEA / DRINKABLE. (no ribbon, as booked), labels (BELIEF / LEGEND / LEGEND / LEGEND / FACT / BELIEF), caption and hashtags in Buffer.
+
+Caption: keep the one already in Buffer.
+
+Score: 8.6/10 (strong hook image, constant change on screen, clear legend/fact split, twist in the last third, easy question; minus: the storm shot is dark and short, and the studio section is simpler than the sea scenes).
+Checks: safe area, captions never on a face, no black/frozen spans, -14.6 LUFS, peak -3.2 dBFS.
+QA: passed (contact sheet checked)
